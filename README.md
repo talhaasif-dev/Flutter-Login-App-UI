@@ -1,16 +1,37 @@
-# flutter_application_2
+# 📱 Flutter Login UI App
 
-A new Flutter project.
+A simple Flutter project that demonstrates a **Login** and **Sign Up (Register)** user interface.  
+This is a **beginner-level project** focused on UI design and layout structuring in Flutter.
 
-## Getting Started
+> ⚠️ Note: The login functionality is not connected to any backend. It is a dummy UI project for learning purposes.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🎨 Clean and simple UI design  
+- 🔐 Login screen  
+- 📝 Sign Up (Register) screen  
+- 🔁 Navigation between Login and Sign Up pages  
+- 📱 Responsive layout (works on different screen sizes)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Screenshots
+
+![](https://i.ibb.co/TxpDCrZf/Screenshot-2026-02-11-165007.png)
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+**Make sure that you have flutter and android SDK installed on your computer**
+```bash
+git clone https://github.com/talhaasif-dev/Flutter-Login-App-UI
+```
+and then
+
+```bash
+flutter run
+```
+
+NOTE: make sure your phone is connected or emulator is running
