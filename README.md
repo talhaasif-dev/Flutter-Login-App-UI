@@ -19,7 +19,7 @@ This is a **beginner-level project** focused on UI design and layout structuring
 
 ## 📸 Screenshots
 
-![](https://i.ibb.co/TxpDCrZf/Screenshot-2026-02-11-165007.png)
+![](https://i.ibb.co/YFY4rb6C/Screenshot-2026-02-11-165007.png)
 
 ## 🚀 Getting Started
 
